@@ -1,0 +1,3 @@
+C:\1_HG\1_PANASONIC\DEV_RND\Jenkins\TestJavaApp> javac HelloWorld.java
+
+C:\1_HG\1_PANASONIC\DEV_RND\Jenkins\TestJavaApp>java -cp C:\1_HG\1_PANASONIC\DEV_RND\Jenkins\TestJavaApp HelloWorld
