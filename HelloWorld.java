@@ -1,4 +1,4 @@
-/******************************************************************************
+.. fetching /******************************************************************************
  *  Compilation:  javac HelloWorld.java
  *  Execution:    java HelloWorld
  *
@@ -22,7 +22,7 @@ public class HelloWorld {
         // Prints "Hello, World" to the terminal window.
         for(int i=1;i<=10;i++)
 		{
-		System.out.println(i + ". Hello, World. Now triggered by git push");
+		System.out.println(i + ". Hello, World. Now triggered by git push. changes fetched from server...");
 		}
     }
 
