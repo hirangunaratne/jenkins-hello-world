@@ -22,7 +22,7 @@ public class HelloWorld {
         // Prints "Hello, World" to the terminal window.
         for(int i=1;i<=10;i++)
 		{
-		System.out.println(i + ". Hello, World. Now triggered by git push. changes fetched from server...");
+		System.out.println(i + ". Hello, World. Now triggered by git push. ***changes fetched from server***");
 		}
     }
 
